@@ -19,6 +19,7 @@
                 <field>Class__c</field>
             </layoutItems>
         </layoutColumns>
+        
         <layoutColumns>
             <layoutItems>
                 <behavior>Edit</behavior>
